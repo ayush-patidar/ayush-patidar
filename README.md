@@ -13,7 +13,10 @@
       DSA_Revision_sheet()<br>
       Moto_Habbit(time){ document.log(`Always be coding`);}<br>
  <br>     
-⚡ Fun fact: I love - Competitive Programming = Adrenaline Rush , Anime, Sci-fi and Fantasy Novel creation/world building
+⚡ Fun fact: I love - <br>
+      Competitive Programming = Adrenaline Rush ;<br>
+      Anime;<br>
+      Sci-fi and Fantasy Novel creation/world building;<br>
 
 <br>
 📫 How to reach me: ayushpatidar.ietdavv.ai@gmail.com
