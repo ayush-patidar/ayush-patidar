@@ -14,7 +14,7 @@
       Moto_Habbit(time){ document.log(`Always be coding`);}<br>
  <br>     
 ⚡ Fun fact: I love - <br>
-      Competitive Programming = Adrenaline Rush ;<br>
+      Competitive Programming = Adrenaline Rush [CC-3 Star];<br>
       Anime;<br>
       Sci-fi and Fantasy Novel creation/world building;<br>
 
